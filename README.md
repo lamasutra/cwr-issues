@@ -1,37 +1,137 @@
-# cwr3-resistance-issues
+# Cold War Reforged for ArmA 3 Issue Tracker
 
-Some info about missions - WIP
+Welcome to the **Cold War Reforged for ArmA 3 Issue Tracker**.  
+This repository exists solely for tracking **bugs, feature requests, feedback, and compatibility issues** related to my Arma 3 missions, mods, and scripts.
 
-## M01 - invasion
+There is **no source code** in this repository — it is dedicated entirely to issue tracking and project management.
 
-* BUS should stop at any bus stop on the way after 1 minute of waiting
-* If player goes wrong direction on the motorcycle, the stopar script should be executed
-* Both fuel stations should have correct animation
+---
 
-## M02 - crossroads
+## 📌 Purpose
 
-* Killing should start after 1st minute
-* If we betray, we should continue with the mission 03a meeting
-* Otherwise we should seek for the resistance camp
+This tracker provides a public, organized place to:
 
-* There will be optional hidden task to save the Peter, he will assist in m02 and then will join the squad later
+- Report bugs  
+- Suggest features or enhancements  
+- Track roadmaps and planned updates  
+- Record known issues  
+- Discuss improvements  
+- Share reproducible feedback
 
-## M03a - meeting
+If you’re experiencing a problem or want to propose an idea, this is the right place.
 
-* All contacts has action for asking a further directions.
-* We can betray at the end, the game ends with an execution cutscene
-* If we join we continue with mission m04
+---
 
-## M03b - no turning back
+## 📝 How to Report an Issue
 
-* Mission can end in truck or in the forest if the truck is disabled somehow.
+Please open a **New Issue** and select the appropriate template (if available).  
+When reporting a bug, include as much detail as possible:
 
-## M04
+### **Required for Bug Reports**
+- **Mission/Mod name & version**
+- **Arma 3 version** (stable, RC, or dev branch)
+- **Reproduction steps**
+- **Expected behavior**
+- **Actual behavior**
+- **RPT logs** (attach or paste relevant excerpts)
+- **Loaded mods** (full modlist or `-mod=` parameter)
+- **Screenshots or video** (if applicable)
 
-* Convoy can escape and mission should fail
-* If we do not destroy second wave, the mission m05 will start in base
+### **Required for Feature Requests**
+- Clear description of the feature
+- Why it would be useful
+- Optional implementation ideas or examples
 
+Providing more information helps issues get resolved faster.
 
-## TODO
+---
 
-* Metodika testování
+## 🧩 Supported Content
+
+This tracker covers issues for:
+
+- Missions  
+- Scripts
+- Systems  
+- Frameworks  
+- Modpacks (if applicable)
+- Future projects  
+
+If you're unsure whether something belongs here — open an issue anyway.
+
+---
+
+## 🔧 Issue Labels
+
+Issues are categorized using labels such as:
+
+- `bug`
+- `feature`
+- `enhancement`
+- `question`
+- `help wanted`
+- `compatibility`
+- `documentation`
+- `performance`
+- `wontfix`
+- `invalid`
+- `duplicate`
+
+Labels help keep everything organized and easy to navigate.
+
+---
+
+## 📅 Roadmap & Milestones
+
+Updates and planned tasks are grouped under:
+
+- **Milestones** (version-based or project-based)  
+- **Project boards** (if enabled)
+
+You can track progress in real time using GitHub’s built-in tools.
+
+---
+
+## 🤝 Contribution & Discussion
+
+Everyone is welcome to:
+
+- Submit issues  
+- Join discussions  
+- Propose suggestions  
+- Vote on features  
+- Share testing results  
+
+Even small contributions help improve the overall quality.
+
+---
+
+## 📄 Repository Structure
+
+This is a **codeless** repository.  
+You will only find:
+
+/.github/ISSUE_TEMPLATE/ (optional – issue templates & forms)
+README.md (this file)
+
+All development files exist in their respective Arma 3 projects, not here.
+
+---
+
+## 🗂️ Related Links
+
+- Arma 3 Documentation: https://community.bistudio.com/wiki  
+- BI Feedback Tracker: https://feedback.bistudio.com  
+- Steam Workshop (your items, if applicable)
+
+---
+
+## 📬 Contact
+
+For questions outside GitHub issues, you may reach me through:
+
+- Steam Workshop comments  
+- Direct email message lamasutra.cz[at]gmail.com
+- Discord https://discord.gg/qYCQSKk7pG
+
+---
