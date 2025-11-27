@@ -1,38 +1,80 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+name: Bug Report
+about: Report an issue or unexpected behavior
+title: "[BUG] "
+labels: ["bug"]
+assignees: []
+---
+
+## 🐞 Bug Description
+A clear and concise description of the problem.
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## 📌 Affected Content
+What were you using when the bug occurred?
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+- [ ] Mission  
+- [ ] Mod  
+- [ ] Script / System  
+- [ ] Other (explain below)
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+Name & version:
+e.g. Operation Sunrise v1.3
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+---
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## 🔧 Arma 3 Version
+Select the branch you were running:
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+- [ ] Stable  
+- [ ] RC / Profiling  
+- [ ] Dev branch  
 
-**Additional context**
-Add any other context about the problem here.
+Version number:
+e.g. 2.16.148221
+
+---
+
+## 📋 Reproduction Steps
+Explain how to reproduce the issue step-by-step.
+
+1.  
+2.  
+3.  
+4.  
+
+---
+
+## 🎯 Expected Behavior
+What should have happened?
+
+---
+
+## 💥 Actual Behavior
+What actually happened instead?
+
+---
+
+## 📄 RPT / Logs
+Please attach or paste relevant RPT log sections here.
+
+*If unsure where to find them, check:*  
+https://community.bistudio.com/wiki/Crash_Files
+
+---
+
+## 🧩 Loaded Mods
+List your full modset or paste your launch parameters.
+
+-mod=@CBA_A3;@ACE3;...
+
+---
+
+## 🖼️ Screenshots / Video
+If applicable, paste link here.
+
+---
+
+## 📝 Additional Context
+Any other information that might help.
