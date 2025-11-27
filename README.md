@@ -122,7 +122,10 @@ All development files exist in their respective Arma 3 projects, not here.
 
 - Arma 3 Documentation: https://community.bistudio.com/wiki  
 - BI Feedback Tracker: https://feedback.bistudio.com  
-- Steam Workshop (your items, if applicable)
+- Steam Workshop https://steamcommunity.com/id/lamasutra-cz/myworkshopfiles/?appid=107410
+- Cold War Crisis Campaign Devel https://steamcommunity.com/sharedfiles/filedetails/?id=3609245964
+- Resistance Campaign Devel https://steamcommunity.com/sharedfiles/filedetails/?id=2949085740
+- Cold War Reforged Mod Devel https://steamcommunity.com/sharedfiles/filedetails/?id=3609223154
 
 ---
 
