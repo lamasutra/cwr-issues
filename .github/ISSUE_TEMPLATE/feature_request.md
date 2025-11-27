@@ -1,20 +1,55 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+name: Feature Request
+about: Suggest a new feature, improvement, or enhancement
+title: "[FEATURE] "
+labels: ["feature"]
+assignees: []
+---
+
+## ✨ Feature Summary
+A short description of the feature you want added.
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## 🔍 Problem / Motivation
+What problem does this feature solve, or why would it be useful?
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+Explain the current limitation or missing functionality.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+---
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## 🧠 Proposed Solution
+Describe how you imagine the feature should work.
+
+- UI or interaction ideas  
+- Gameplay logic  
+- Script behavior  
+- Configurable options  
+- Example scenarios
+
+---
+
+## 🧪 Alternatives Considered
+Have you thought of different approaches or workarounds?
+
+---
+
+## 📦 Impact / Scope
+Who benefits from this feature?
+
+- [ ] Players  
+- [ ] Mission makers  
+- [ ] Server admins  
+- [ ] Modpack creators  
+- [ ] Other (explain below)
+
+---
+
+## 🔗 Related Issues or References
+(Optional) Link to similar issues, Arma 3 wiki pages, mods, or examples.
+
+---
+
+## 📝 Additional Notes
+Anything else that might help clarify the request.
+
